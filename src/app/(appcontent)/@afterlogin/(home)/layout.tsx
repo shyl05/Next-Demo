@@ -1,5 +1,5 @@
 import AppHeader from "./Components/AppHeader/AppHeader"
-export default function DashboardLayout({
+export default function AfterLoginLayout({
     children, // will be a page or nested layout
   }: {
     children: React.ReactNode
